@@ -2,7 +2,7 @@
 
 This repository contains the projects completed during my **C++ Programming Internship at CodSoft**. These projects helped me strengthen my understanding of C++ programming, problem-solving, object-oriented concepts, and file handling.
 
-## 📌 Tasks Completed
+##  Tasks Completed
 
 ### Task 1: Calculator
 
@@ -51,12 +51,12 @@ A library management application that allows:
 * Standard Template Library (STL)
 * File Handling
 
-## 🎯 Internship
+##  Internship
 
 **Organization:** CodSoft
 **Domain:** C++ Programming
 **Duration:** June 2026
 
-## 👩‍💻 Author
+##  Author
 
 **Anegha Saxena**
